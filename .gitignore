@@ -23,7 +23,8 @@
 *.a
 *.lib
 
-# Executables
+# Executables: Windows extensions and dir for Linux binaries
+bin
 *.exe
 *.out
 *.app
